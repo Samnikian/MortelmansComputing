@@ -1,0 +1,10 @@
+.ui-selectmenu-menu li a:hover{background:#000000;color:#fff}
+.advisorQSearch .submit{background:url(/includes/images/twindis/btn_advisor_searchbar_black.png) no-repeat left top}
+a,a:visited,a:active{color:#000000;text-decoration:underline}
+a:hover{color:#000000;text-decoration:none}
+#page_home{
+	width: 95%;
+}
+.orderBtn,.productOrder,.productStock,.statusBoxBig,.dlvTimeLegend,div.searchField{
+	display:none;
+}
